@@ -1,0 +1,14 @@
+# Archivos de configuración del IDE
+/.vscode/
+/.idea/
+
+# Carpetas de compilación
+/build/
+/dist/
+/output/
+/target/
+
+# Archivos de log y caché
+*.log
+.cache
+.temp
